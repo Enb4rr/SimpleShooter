@@ -12,9 +12,5 @@ Unreal Engine 5, 3D, Shooter.
 ### Core:
 The main objective of this project was to apply available tools in Unreal Engine 5 through the collaboration of C++ programming with blueprints.
 
-### Pick Up Mechanic
-![](https://github.com/Enb4rr/Crypt-Raider/blob/main/Gifs/Clip1Crypt.gif)
-### Scenery Puzzle
-![](https://github.com/Enb4rr/Crypt-Raider/blob/main/Gifs/Clip2Crypt.gif)
-### Visual Aspect
-![](https://github.com/Enb4rr/Crypt-Raider/blob/main/Gifs/Clip3Crypt.gif)
+### Showcase and Behaviour Tree.
+![](https://github.com/Enb4rr/SimpleShooter---PC-Game/blob/main/Gifs/Showcase.gif)
